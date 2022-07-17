@@ -16,7 +16,7 @@ Website contains -:
 
 **Test:** The Number of tests can be created by the multiple admins and admin can get the result analysis of users.
 
-![](usedinreadme1.png)
+![](usedinreadme1.gif)
 
 ![](usedinreadme2.png)
 
